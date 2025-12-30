@@ -4,18 +4,18 @@
 
 ### Full-Stack Developer • React • Node.js • Networking Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://your-portfolio-link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://fatlum-gerxhaliu.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fatlum-g%C3%ABrxhaliu-053bba302/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/FatlumG)
 
 </div>
 
 ---
 
 ## 👋 About Me
-- 🎓 Faculty student (IT / Computer Science)
+- 🎓 Faculty of Electrical and Computer Engineerin student (University of Prishtina)
 - 💻 Full-stack developer (Frontend & Backend)
-- ⚛️ React for modern user interfaces
+- ⚛️ React+Typescript for modern user interfaces
 - 🌐 Node.js & Express for backend systems
 - 🧠 Strong foundation in **networking & system fundamentals**
 - 🚀 Learning by building real-world projects
@@ -51,9 +51,9 @@
 ---
 
 ## 🚀 Featured Projects
+- **Vulum** — React + Node.js+ MySQL + ...
+- **Travel App** — REST API with Express & SQL + React   
 - **React Portfolio** — Personal portfolio built with React & Vite  
-- **Full-Stack App** — React + Node.js + MongoDB  
-- **API Project** — REST API with Express & SQL  
 
 *(More projects coming as I grow 🚀)*
 
