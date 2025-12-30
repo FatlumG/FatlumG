@@ -1,29 +1,36 @@
-# Hi, I’m Fatlum 👋
+<div align="center">
 
-Full-stack developer focused on **JavaScript & TypeScript**.  
-I build complete web applications using modern frontend and backend technologies.
+# Fatlum Gerxhaliu
+
+### Full-Stack Developer • React • Node.js • Networking Enthusiast
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://your-portfolio-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/yourusername)
+
+</div>
 
 ---
 
-## 🧠 About Me
-- 💻 Full-stack developer (Frontend & Backend)
-- ⚛️ React for modern UI development
-- 🌐 Node.js & Express for backend systems
-- 🗄️ MongoDB & SQL databases
-- 🧠 Strong foundation in networking & system fundamentals
+## 👋 About Me
 - 🎓 Faculty student (IT / Computer Science)
+- 💻 Full-stack developer (Frontend & Backend)
+- ⚛️ React for modern user interfaces
+- 🌐 Node.js & Express for backend systems
+- 🧠 Strong foundation in **networking & system fundamentals**
+- 🚀 Learning by building real-world projects
 
 ---
 
-## 🛠 Tech Stack
+## 🧰 Tech I Use
 
 ### Frontend
-![HTML](https://img.shields.io/badge/HTML-000000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-000000?style=flat&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react)
-![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat&logo=tailwindcss)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-000000?style=flat&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap)
 
 ### Backend
@@ -35,21 +42,32 @@ I build complete web applications using modern frontend and backend technologies
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=flat&logo=microsoftsqlserver)
 
----
-
-## 🔧 Tools
+### Tools
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)
 ![npm](https://img.shields.io/badge/npm-000000?style=flat&logo=npm)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat&logo=firebase)
 
 ---
 
-## 🚀 Currently
-- Building full-stack projects
+## 🚀 Featured Projects
+- **React Portfolio** — Personal portfolio built with React & Vite  
+- **Full-Stack App** — React + Node.js + MongoDB  
+- **API Project** — REST API with Express & SQL  
+
+*(More projects coming as I grow 🚀)*
+
+---
+
+## 📌 Currently
+- Building full-stack applications
 - Improving backend architecture
 - Deepening knowledge in networking & security basics
 
 ---
 
-## 📫 Contact
-- GitHub: https://github.com/yourusername
+<div align="center">
+
+⭐ *Always learning. Always building.*
+
+</div>
