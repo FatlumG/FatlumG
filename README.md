@@ -13,7 +13,7 @@
 ---
 
 ## 👋 About Me
-- 🎓 Faculty of Electrical and Computer Engineerin student (University of Prishtina)
+- 🎓 Faculty of Electrical and Computer Engineering student (University of Prishtina)
 - 💻 Full-stack developer (Frontend & Backend)
 - ⚛️ React+Typescript for modern user interfaces
 - 🌐 Node.js & Express for backend systems
